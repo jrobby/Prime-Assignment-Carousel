@@ -1,0 +1,42 @@
+body {
+    background-color: skyblue;
+}
+
+#prev{
+    margin: 50px 5px 5px 5px;
+    padding: 20px;
+}
+
+#next {
+    margin: 50px 5px 5px 5px;
+    padding: 20px;
+}
+button {
+    /*text-align: center;*/
+    display: inline-block;
+
+}
+
+
+/*.index-point {*/
+    /*!*display: none;*!*/
+/*}*/
+
+
+/*.index-point-active {*/
+    /*background-color: #ee100d;*/
+    /*display:inline;*/
+    /*font-size: large;*/
+
+/*}*/
+
+
+p {
+    text-align: center;
+
+}
+
+.carousel {
+    text-align: center;
+
+}
